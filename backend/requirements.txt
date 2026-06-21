@@ -29,6 +29,10 @@ torch==2.2.2
 
 pypdf==4.2.0
 
+pip==24.0
+setuptools==70.0.0
+wheel==0.43.0
+
 # Whisper (safe version)
 openai-whisper==20231117
 
