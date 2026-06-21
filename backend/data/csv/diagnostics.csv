@@ -1,0 +1,13 @@
+test_id,test_name,department,category,sample_type,turnaround_time,price,home_collection,fasting_required,description
+T001,Complete Blood Count,Diagnostics,Hematology,Blood,4 hours,350,Yes,No,Full blood panel including RBC WBC platelets and hemoglobin
+T002,Lipid Profile,Diagnostics,Biochemistry,Blood,6 hours,600,Yes,Yes - 12 hrs,Cholesterol triglycerides HDL LDL levels
+T003,Fasting Blood Glucose,Diagnostics,Biochemistry,Blood,2 hours,120,Yes,Yes - 8 hrs,Blood sugar level after fasting
+T004,HbA1c,Diagnostics,Biochemistry,Blood,6 hours,450,Yes,No,3-month average blood glucose level
+T005,Thyroid Function Test,Diagnostics,Biochemistry,Blood,8 hours,850,Yes,No,T3 T4 TSH levels assessment
+T006,MRI Brain,Radiology,Imaging,NA,Same Day,5500,No,No,Magnetic resonance imaging of brain
+T007,CT Scan Chest,Radiology,Imaging,NA,Same Day,4500,No,No,Computed tomography of chest
+T008,X-Ray Knee,Radiology,Imaging,NA,30 minutes,400,No,No,Plain radiograph of knee joint
+T009,ECG,Cardiology,Cardiac,NA,15 minutes,300,No,No,12-lead electrocardiogram
+T010,Urine Routine,Diagnostics,Microbiology,Urine,3 hours,150,Yes,No,General urine examination
+T011,Echocardiogram,Cardiology,Cardiac,NA,1 hour,2500,No,No,Ultrasound of heart
+T012,Pulmonary Function Test,Pulmonology,Respiratory,NA,1 hour,1200,No,No,Spirometry and lung capacity assessment

@@ -1,0 +1,13 @@
+medicine_id,name,generic_name,category,form,strength,manufacturer,stock_qty,unit_price,prescription_required,storage_condition
+M001,Ecosprin,Aspirin,Antiplatelet,Tablet,75mg,USV Limited,500,5.50,Yes,Room Temperature
+M002,Metformin HCl,Metformin,Antidiabetic,Tablet,500mg,Sun Pharma,800,3.20,Yes,Room Temperature
+M003,Amlodipine,Amlodipine Besylate,Antihypertensive,Tablet,5mg,Cipla,600,8.00,Yes,Room Temperature
+M004,Atorvastatin,Atorvastatin Calcium,Lipid Lowering,Tablet,10mg,Ranbaxy,450,15.00,Yes,Room Temperature
+M005,Paracetamol,Acetaminophen,Analgesic,Tablet,500mg,GSK,1200,2.50,No,Room Temperature
+M006,Amoxicillin,Amoxicillin Trihydrate,Antibiotic,Capsule,500mg,Alembic,300,12.00,Yes,Room Temperature
+M007,Pantoprazole,Pantoprazole Sodium,PPI,Tablet,40mg,Torrent,700,9.50,Yes,Room Temperature
+M008,Cetirizine,Cetirizine HCl,Antihistamine,Tablet,10mg,Dr. Reddys,550,4.00,No,Room Temperature
+M009,Insulin Glargine,Insulin Glargine,Antidiabetic,Injection,100IU/mL,Sanofi,150,850.00,Yes,Refrigerated 2-8C
+M010,Ondansetron,Ondansetron HCl,Antiemetic,Tablet,4mg,Zydus,400,6.00,Yes,Room Temperature
+M011,Salbutamol,Salbutamol Sulfate,Bronchodilator,Inhaler,100mcg,Cipla,200,120.00,Yes,Room Temperature
+M012,Clopidogrel,Clopidogrel Bisulfate,Antiplatelet,Tablet,75mg,Intas,350,18.00,Yes,Room Temperature

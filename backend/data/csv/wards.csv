@@ -1,0 +1,11 @@
+ward_id,ward_name,department,ward_type,total_beds,available_beds,floor,block,nurse_in_charge,phone_extension
+W001,Cardiac Care Ward,Cardiology,General,20,5,2nd Floor,Block A,Nita Verma,2001
+W002,Neuro Ward,Neurology,General,15,3,3rd Floor,Block B,Rita Sharma,2002
+W003,Orthopedic Ward,Orthopedics,General,18,8,1st Floor,Block C,Anand Kumar,2003
+W004,Pediatric Ward,Pediatrics,General,25,10,Ground Floor,Block D,Sunita Rao,2004
+W005,Maternity Ward,Gynecology,General,20,7,2nd Floor,Block D,Geeta Pillai,2005
+W006,Oncology Ward,Oncology,Specialized,12,2,4th Floor,Block E,Pradeep Singh,2006
+W007,General Ward,Surgery,General,30,12,2nd Floor,Block B,Kamala Devi,2007
+W008,ICU,Emergency,Critical Care,10,2,Ground Floor,Block F,Dr. Emergency,2008
+W009,NICU,Pediatrics,Critical Care,8,3,Ground Floor,Block D,Dr. Neonatal,2009
+W010,Private Ward,General,Private,15,6,3rd Floor,Block A,Meena Thomas,2010

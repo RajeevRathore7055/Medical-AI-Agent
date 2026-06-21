@@ -1,0 +1,13 @@
+department_id,department_name,head_doctor,location,floor,phone_extension,services
+DEPT001,Cardiology,Dr. Ananya Sharma,Block A,2nd Floor,1001,"ECG, Echocardiography, Stress Test, Angioplasty"
+DEPT002,Neurology,Dr. Rohan Mehta,Block B,3rd Floor,1002,"EEG, MRI Brain, Nerve Conduction Study, Epilepsy Treatment"
+DEPT003,Orthopedics,Dr. Priya Nair,Block C,1st Floor,1003,"Joint Replacement, Fracture Treatment, Spine Surgery, Physiotherapy"
+DEPT004,Pediatrics,Dr. Vikram Patel,Block D,Ground Floor,1004,"Vaccination, Child Health Checkup, Neonatal Care, Pediatric Surgery"
+DEPT005,Dermatology,Dr. Sneha Reddy,Block A,1st Floor,1005,"Skin Biopsy, Laser Treatment, Allergy Test, Cosmetic Dermatology"
+DEPT006,Surgery,Dr. Arjun Gupta,Block B,2nd Floor,1006,"Laparoscopic Surgery, Appendectomy, Hernia Repair, Thyroid Surgery"
+DEPT007,Gynecology,Dr. Meera Joshi,Block D,2nd Floor,1007,"Antenatal Care, Delivery, Hysterectomy, Fertility Treatment"
+DEPT008,Oncology,Dr. Karan Singh,Block E,4th Floor,1008,"Chemotherapy, Radiation Therapy, Tumor Biopsy, Palliative Care"
+DEPT009,Endocrinology,Dr. Pooja Agarwal,Block A,3rd Floor,1009,"Diabetes Management, Thyroid Disorders, Hormonal Imbalance"
+DEPT010,Pulmonology,Dr. Rahul Desai,Block C,2nd Floor,1010,"Bronchoscopy, Spirometry, Asthma Management, Sleep Study"
+DEPT011,Emergency,Dr. Arjun Gupta,Block F,Ground Floor,1011,"Trauma Care, Acute Medical Emergencies, Critical Care, ICU"
+DEPT012,Pharmacy,Ravi Kumar,Block F,Ground Floor,1012,"Prescription Dispensing, Drug Information, Compounding"

@@ -1,0 +1,13 @@
+bed_id,ward_id,bed_number,bed_type,status,patient_id,admission_date,expected_discharge,daily_charge
+B001,W001,101,Standard,Occupied,P001,2026-06-15,2026-06-20,2500
+B002,W001,102,Standard,Available,,,,2500
+B003,W001,103,Standard,Available,,,,2500
+B004,W002,201,Standard,Occupied,P002,2026-06-16,2026-06-22,2800
+B005,W002,202,Standard,Available,,,,2800
+B006,W003,301,Standard,Occupied,P005,2026-06-17,2026-06-21,2600
+B007,W004,401,Standard,Occupied,P003,2026-06-18,2026-06-19,2200
+B008,W005,501,Deluxe,Occupied,P004,2026-06-14,2026-06-25,3500
+B009,W006,601,Standard,Occupied,P006,2026-06-10,2026-06-30,4000
+B010,W008,ICU-1,ICU,Occupied,P009,2026-06-17,2026-06-24,8000
+B011,W010,P-01,Private,Available,,,,5000
+B012,W010,P-02,Private Suite,Available,,,,8000

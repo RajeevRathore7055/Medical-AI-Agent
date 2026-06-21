@@ -1,0 +1,11 @@
+staff_id,name,role,department,shift,contact,email,employee_since
+S001,Nita Verma,Head Nurse,Cardiology,Morning,9876540001,nita.verma@hospital.com,2015-03-10
+S002,Ravi Kumar,Pharmacist,Pharmacy,Afternoon,9876540002,ravi.kumar@hospital.com,2018-07-22
+S003,Sonal Mishra,Lab Technician,Diagnostics,Morning,9876540003,sonal.mishra@hospital.com,2019-01-15
+S004,Deepak Sharma,Radiographer,Radiology,Night,9876540004,deepak.sharma@hospital.com,2017-09-30
+S005,Asha Pillai,Receptionist,Administration,Morning,9876540005,asha.pillai@hospital.com,2020-06-01
+S006,Mohan Rao,Ward Boy,Orthopedics,Afternoon,9876540006,mohan.rao@hospital.com,2021-02-14
+S007,Kavita Jain,Dietitian,Nutrition,Morning,9876540007,kavita.jain@hospital.com,2016-11-25
+S008,Suresh Nair,Physiotherapist,Rehabilitation,Afternoon,9876540008,suresh.nair@hospital.com,2019-08-19
+S009,Anita Bose,Medical Records Officer,Administration,Morning,9876540009,anita.bose@hospital.com,2014-05-07
+S010,Prakash Iyer,Security Guard,Security,Night,9876540010,prakash.iyer@hospital.com,2022-03-20
